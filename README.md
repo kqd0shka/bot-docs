@@ -1,4 +1,4 @@
-# 🤖 YOUR_BOT_NAME
+# 🤖 DIEZE_OS
 
 <div align="center">
 
