@@ -78,13 +78,6 @@ npm run dev
 - REST API
 - TypeScript
 
----
-
-# 📷 Preview
-
-<p align="center">
-  <img src="https://i.imgur.com/3QZQZ9A.png" width="700">
-</p>
 
 ---
 
@@ -114,7 +107,7 @@ The bot only stores data required for functionality.
 
 <div align="center">
 
-[![Discord Server](https://img.shields.io/badge/Support%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dieze))
+[![Discord Server](https://img.shields.io/badge/Support%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dieze)
 
 </div>
 
